@@ -1,0 +1,2 @@
+TOKEN = '8005469554:AAEX-iwaT1TDBIbCc_y4N9zNVj5RKXVLt-I'
+DB_PATH = 'data/sockbot.db'
